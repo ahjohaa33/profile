@@ -1,0 +1,41 @@
+
+body{
+    background-color: #f0eded;
+    overflow-x: hidden;
+}
+
+#basic-container{
+    background-color: transparent;
+    border: none;
+}
+
+#avatar{
+    margin-top: -52px;
+    border-style: solid;
+}
+
+.card{
+    border: none;
+    background-color: white;
+}
+
+
+.checked{
+    color:#fbc634 !important;
+}
+
+.nav-link{
+    color: #65676b;
+}
+.nav-link:hover{
+    color: #0866FF;
+}
+
+span{
+    color: #65676b;
+}
+
+
+
+
+
